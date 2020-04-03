@@ -12,6 +12,10 @@ h6 {
     font-family: 'Crimson Text', serif;
 }
 
+.bg-gray {
+    background: #fafafa;
+}
+
 .divider {
     position: absolute;
     left: 0;
@@ -56,15 +60,15 @@ section.tagline {
     transform: translate(-50%, -50%);
 }
 
-.fonctions {
+.skills {
     padding: 5px 20px;
 }
 
-.social-links:hover {
+.card-footer a {
     text-decoration: none;
 }
 
-.social-logo {
+.card-footer a img {
 	width: 32px;
 	height: 32px;
 	margin: 0 5px;
