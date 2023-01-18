@@ -1,6 +1,7 @@
 body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     background-color: #FAFAFA;
+    display: none; /* tmp debugging */
 }
 
 h1,
